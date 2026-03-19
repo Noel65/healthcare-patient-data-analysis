@@ -25,7 +25,7 @@ This project analyzes healthcare patient data to identify patterns, trends, and 
 
 ## Files
 - HTML report (exported notebook)  
-- Dataset (if included)  
+- Dataset 
 
 ## Future Improvements
 - Add predictive models  
